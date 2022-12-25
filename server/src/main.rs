@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world! Welcome to OSP!");
+    println!("Hello, world! Welcome to Online Shooter Platformer!");
 }
